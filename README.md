@@ -34,7 +34,7 @@ YSR is an innovative Android mobile application designed to help users control t
    - YSR can be used proactively by drivers to manage their stress levels and prevent the onset of road rage, even in normal driving conditions.
    - The app's ability to provide personalized audio content and a supportive chatbot experience helps users maintain a positive mindset and improve their overall driving experience
 
-## App Screen 
+## App Screens 
 
 <img width="1059" alt="Screenshot 2024-07-17 at 6 28 43 PM" src="https://github.com/user-attachments/assets/da61db79-8089-4c9f-a88a-27e2949f17ac">
 
