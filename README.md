@@ -48,7 +48,7 @@ YSR is an innovative Android mobile application designed to help users control t
 
 ## FULL Case Study 
 
-Check out the FULL case study on Figma: https://lnkd.in/eS9fSn3M 
+Check out the FULL case study on Figma: https://www.figma.com/design/t0vSirCG4iG7uWaxzzpPPt/%D9%92YSR?node-id=0-1&t=fKyvAANcYf3AHFJC-1
 
 ## Project Poster 
 
